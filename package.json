@@ -1,0 +1,16 @@
+{
+  "name": "crud_api_node_express_mongodb",
+  "version": "1.0.0",
+  "description": "Simple CRUD API with Node.js, Express and MongoDB from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
