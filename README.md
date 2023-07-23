@@ -24,8 +24,3 @@ npm run dev ( instant modify to app )
 
 npm i mongoose
 
-MONGODB_URI = mongodb+srv://<user>:<password>@cluster0.hduktsv.mongodb.net/?retryWrites=true&w=majority
-SECRET_JWT = 
-
-MONGODB_URI = mongodb+srv://root69:root69@cluster0.hduktsv.mongodb.net/?retryWrites=true&w=majority
-SECRET_JWT = 3113412251f19d929abfbc139874ed44
